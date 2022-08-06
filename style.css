@@ -192,7 +192,7 @@ button {
   opacity: 0;
 }
 
-@media (min-width: 425px) {
+@media (max-width: 425px) {
   .fa-trash, .done-btn{
     font-size: 30px;
   }
